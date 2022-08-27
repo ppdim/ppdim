@@ -1,4 +1,4 @@
-### **Hi there** 👋
+### **- 🌱 I’m currently learning QA in "QA at Silicon Valley California"** 
 
 <!--
 **ppdim/ppdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
