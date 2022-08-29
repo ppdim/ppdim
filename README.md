@@ -7,8 +7,10 @@ My LinkedIn profile:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dmitriiosipov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriiosipov/)](https://www.linkedin.com/in/dmitriiosipov/)
 
-![JS_in_AT-06_02353292_new](https://user-images.githubusercontent.com/111836294/187249856-0268bd49-3ef1-4075-9b4f-3d8f4b44612a.png)
+![JS_in_AT-06_02353292](https://user-images.githubusercontent.com/111836294/187250080-70ebd106-aba7-4fd5-b5a1-6733e553e102.png)
 
+
+![webstorm](https://user-images.githubusercontent.com/111836294/187250105-cad5ba31-8baa-4959-a5fb-297dcdcfa405.svg)
 
 
 ⚡ My Languages & Tools:
