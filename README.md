@@ -10,9 +10,6 @@ My LinkedIn profile:
 ![JS_in_AT-06_02353292](https://user-images.githubusercontent.com/111836294/187250080-70ebd106-aba7-4fd5-b5a1-6733e553e102.png)
 
 
-![webstorm](https://user-images.githubusercontent.com/111836294/187250105-cad5ba31-8baa-4959-a5fb-297dcdcfa405.svg)
-
-
 ⚡ My Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
