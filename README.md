@@ -1,3 +1,7 @@
+![JS_in_AT-06_02353292](https://user-images.githubusercontent.com/111836294/187248245-9f545080-b0a6-460d-a034-a20fd21049d9.png)
+
+
+
 ### **- 🌱 I’m Software QA Engineer. 3+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop and Mobile Applications. Front and Back-end REST API Testing, CI/CD, code coverage analysis, relational databases End-to-End data tests."** 
 
 My LinkedIn profile:
