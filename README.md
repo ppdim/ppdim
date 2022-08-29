@@ -1,5 +1,5 @@
 ### **- 🌱 I’m currently learning QA in "QA at Silicon Valley California"** 
-
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 <!--
 **ppdim/ppdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
