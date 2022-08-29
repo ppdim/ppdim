@@ -22,6 +22,9 @@ My LinkedIn profile:
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 
+![blockchain-digital-handshake](https://user-images.githubusercontent.com/106053124/171986452-82ff05f9-eadc-4e7f-9e3b-d794f2b7c810.jpeg)
+
+
 
 
 
