@@ -26,6 +26,7 @@ My LinkedIn profile:
 ![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=Confluence&logoColor=white)
 
 
+![OIP](https://user-images.githubusercontent.com/111836294/188253299-f48d47cb-7496-4826-a445-76d9c2787e44.jpg)
 
 
 
