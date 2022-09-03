@@ -8,8 +8,6 @@ My LinkedIn profile:
 [![Linkedin Badge](https://img.shields.io/badge/-dmitriiosipov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriiosipov/)](https://www.linkedin.com/in/dmitriiosipov/)
 
 
-![OIP](https://user-images.githubusercontent.com/111836294/188253299-f48d47cb-7496-4826-a445-76d9c2787e44.jpg)
-
 ⚡ My Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
